@@ -29,7 +29,7 @@ export const DEFAULTS: ConfigOptions = {
     // Jitsi conference options
     jitsi: {
         // Default conference domain
-        preferredDomain: "jitsi.riot.im",
+        preferredDomain: "meet.ikono.tel",
     },
 };
 
